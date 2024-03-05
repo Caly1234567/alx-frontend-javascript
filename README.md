@@ -1,2 +1,2 @@
 # alx-frontend-javascript
-My first javascript
+My first JavaScript 
